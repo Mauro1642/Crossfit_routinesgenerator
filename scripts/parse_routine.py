@@ -18,7 +18,6 @@ from typing import Optional
 from groq import Groq
 import os
 import pdfplumber
-from anthropic import Anthropic
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
