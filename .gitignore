@@ -1,0 +1,88 @@
+# ===========================================================================
+# SEGURIDAD - Nunca subir al repositorio
+# ===========================================================================
+
+# Variables de entorno y API keys
+.env
+.env.local
+.env.production
+
+# ===========================================================================
+# BASE DE DATOS VECTORIAL
+# ChromaDB se regenera ejecutando ingest.py, no tiene sentido subirla
+# ===========================================================================
+
+chroma_db/
+
+# ===========================================================================
+# DATOS
+# Los PDFs originales y JSONs procesados son datos locales
+# Si querés compartirlos, hacelo por separado de forma segura
+# ===========================================================================
+
+data/raw/
+data/processed/
+
+# ===========================================================================
+# PYTHON
+# ===========================================================================
+
+# Bytecode compilado
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Distribución y packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ===========================================================================
+# JUPYTER NOTEBOOKS
+# Outputs de las celdas (pueden contener datos sensibles)
+# ===========================================================================
+
+# Limpia los outputs de los notebooks antes de subir
+# (el código queda, solo se borran los resultados de ejecución)
+.ipynb_checkpoints/
+
+# ===========================================================================
+# SISTEMA OPERATIVO
+# ===========================================================================
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+
+# ===========================================================================
+# IDEs Y EDITORES
+# ===========================================================================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Jupyter
+.jupyter/
+
+# ===========================================================================
+# STREAMLIT
+# ===========================================================================
+
+# Cache de Streamlit
+.streamlit/secrets.toml
