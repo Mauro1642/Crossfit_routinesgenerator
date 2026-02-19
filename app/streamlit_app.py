@@ -19,6 +19,16 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from rag.agent import crear_estado_inicial, procesar_mensaje, rutina_a_markdown
+
+from rag.pipeline import inicializar_si_vacia
+
+# Inicializa ChromaDB automáticamente si está vacía
+# Esto corre una sola vez al arrancar la app gracias a st.cache_resource
+@st.cache_resource
+def inicializar_base_de_datos():
+    return inicializar_si_vacia()
+
+inicializar_base_de_datos()
 # ===========================================================================
 # CONFIGURACIÓN DE LA PÁGINA
 # ===========================================================================
