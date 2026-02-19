@@ -1,0 +1,471 @@
+{
+  "semana_id": "semana_2025_W07",
+  "fecha_inicio": "2025-02-16",
+  "dias": [
+    {
+      "dia": "Martes",
+      "fecha": "2025-02-16",
+      "tipo_bloque_principal": "OLY",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Hollow rocks",
+            "reps": "15",
+            "escala": null
+          },
+          {
+            "nombre": "Side plank rotation",
+            "reps": "12/12",
+            "escala": null
+          },
+          {
+            "nombre": "Dragon flag",
+            "reps": "8/8",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "OLY",
+        "descripcion": "Complex 4 rounds",
+        "movimiento": null,
+        "sets": 4,
+        "reps": null,
+        "variante_principiante": null
+      },
+      "wod": {
+        "formato": "AMRAP",
+        "duracion": 15,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "400 m run",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "DB hang clean",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "pull ups / ring rows",
+            "reps": "10/14",
+            "escala": null
+          },
+          {
+            "nombre": "burpees DL",
+            "reps": "8",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Hip thrust",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "Remo mancuerna",
+            "reps": "12/12",
+            "escala": null
+          },
+          {
+            "nombre": "Face pull",
+            "reps": "15-20",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [
+          "clean"
+        ],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "OLY"
+      }
+    },
+    {
+      "dia": "Miércoles",
+      "fecha": "2025-02-18",
+      "tipo_bloque_principal": "FUERZA",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Back extension hold",
+            "reps": "30",
+            "escala": null
+          },
+          {
+            "nombre": "Dead bug con disco",
+            "reps": "12/12",
+            "escala": null
+          },
+          {
+            "nombre": "Farmer walk",
+            "reps": "8",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "FUERZA",
+        "descripcion": "Deadlift 4x6",
+        "movimiento": "Deadlift",
+        "sets": 4,
+        "reps": "6",
+        "variante_principiante": "KB RDL"
+      },
+      "wod": {
+        "formato": "Rounds For Time",
+        "duracion": null,
+        "rondas": 5,
+        "time_cap": 14,
+        "ejercicios": [
+          {
+            "nombre": "box jump over",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "devil press",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "toes to bar / knee raises",
+            "reps": "12/18",
+            "escala": null
+          },
+          {
+            "nombre": "burpees over DB",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Bench press",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Seal row",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "camilla cuadriceps",
+            "reps": "10/10",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "sentadilla"
+      }
+    },
+    {
+      "dia": "Jueves",
+      "fecha": "2025-02-19",
+      "tipo_bloque_principal": "FUERZA",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Plancha paso KB",
+            "reps": "8/8",
+            "escala": null
+          },
+          {
+            "nombre": "Lunge + press",
+            "reps": "8/8",
+            "escala": null
+          },
+          {
+            "nombre": "Hollow Hold en barra",
+            "reps": "40",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "FUERZA",
+        "descripcion": "Bench press 4x4",
+        "movimiento": "Bench press",
+        "sets": 4,
+        "reps": "4",
+        "variante_principiante": null
+      },
+      "wod": {
+        "formato": "Escalera",
+        "duracion": null,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "Clean And Jerk",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "Burpees box jump over",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Elevaciones laterales",
+            "reps": "15",
+            "escala": null
+          },
+          {
+            "nombre": "Fondos banco o anillas",
+            "reps": "8-12",
+            "escala": null
+          },
+          {
+            "nombre": "Sissy squat asistido",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [
+          "clean"
+        ],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "empuje"
+      }
+    },
+    {
+      "dia": "Viernes",
+      "fecha": "2025-02-20",
+      "tipo_bloque_principal": "OLY",
+      "core": {
+        "rondas": null,
+        "ejercicios": [
+          {
+            "nombre": "T2b",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "Reverse Hollow",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "OLY",
+        "descripcion": "Complex",
+        "movimiento": null,
+        "sets": null,
+        "reps": null,
+        "variante_principiante": null
+      },
+      "wod": {
+        "formato": "For Time",
+        "duracion": null,
+        "rondas": null,
+        "time_cap": 18,
+        "ejercicios": [
+          {
+            "nombre": "800 m run",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "DB thrusters livianos",
+            "reps": "40",
+            "escala": null
+          },
+          {
+            "nombre": "pull ups / ring rows",
+            "reps": "30/40",
+            "escala": null
+          },
+          {
+            "nombre": "KB swings rusos",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "handstand push ups / pike push ups",
+            "reps": "10",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Elevaciones laterales",
+            "reps": "15",
+            "escala": null
+          },
+          {
+            "nombre": "Fondos banco o anillas",
+            "reps": "8-12",
+            "escala": null
+          },
+          {
+            "nombre": "Sissy squat",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [
+          "snatch"
+        ],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "OLY"
+      }
+    },
+    {
+      "dia": "Sábado",
+      "fecha": "2025-02-21",
+      "tipo_bloque_principal": null,
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Medball pass sit ups",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "Carry partner bear hug",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "Plank shoulder taps sincronizados",
+            "reps": "30",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": null,
+      "wod": {
+        "formato": "AMRAP",
+        "duracion": 5,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "200 m run juntos",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "synchro air squats",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "DB snatch alternados",
+            "reps": "30",
+            "escala": null
+          },
+          {
+            "nombre": "pull ups / ring rows",
+            "reps": "30",
+            "escala": null
+          },
+          {
+            "nombre": "burpees sincronizados",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "sit ups synchro",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "KB swings",
+            "reps": "30",
+            "escala": null
+          },
+          {
+            "nombre": "OH lunges DB",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "clean + push press con barra",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "30 cal",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "wall ball partner pass",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "Lateral burpees",
+            "reps": "10",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": null,
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": null
+      }
+    }
+  ]
+}

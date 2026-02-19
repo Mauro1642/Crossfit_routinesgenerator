@@ -1,0 +1,505 @@
+{
+  "semana_id": "semana_2025_W06",
+  "fecha_inicio": "2024-02-05",
+  "dias": [
+    {
+      "dia": "Lunes",
+      "fecha": "2024-02-05",
+      "tipo_bloque_principal": "FUERZA",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "TGU",
+            "reps": "2/2",
+            "escala": null
+          },
+          {
+            "nombre": "Side Plank Pallof press",
+            "reps": "12/12",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "FUERZA",
+        "descripcion": "Back Squat 5x5 (AHAP)",
+        "movimiento": "Back Squat",
+        "sets": 5,
+        "reps": "5",
+        "variante_principiante": "Box squat / goblet"
+      },
+      "wod": {
+        "formato": "EMOM",
+        "duracion": 18,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "Remo",
+            "reps": "12/10 cal",
+            "escala": null
+          },
+          {
+            "nombre": "KB front rack lunges",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "Devil Press double db",
+            "reps": "10",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Nordic o curl femoral",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Monster walk",
+            "reps": "20 mts",
+            "escala": null
+          },
+          {
+            "nombre": "Vuelos Laterales",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "sentadilla"
+      }
+    },
+    {
+      "dia": "Martes",
+      "fecha": "2024-02-06",
+      "tipo_bloque_principal": "OLY",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Farmer carry",
+            "reps": "20 m",
+            "escala": null
+          },
+          {
+            "nombre": "Sit through",
+            "reps": "10/10",
+            "escala": null
+          },
+          {
+            "nombre": "Plank paso KB",
+            "reps": "20",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "OLY",
+        "descripcion": "Push Jerk 3x3",
+        "movimiento": "Push Jerk",
+        "sets": 3,
+        "reps": "3",
+        "variante_principiante": "Push press DB"
+      },
+      "wod": {
+        "formato": "Rounds",
+        "duracion": null,
+        "rondas": 5,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "Power clean DB",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Front Squat DB",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "STOH DB",
+            "reps": "10",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": null,
+        "ejercicios": [
+          {
+            "nombre": "Remo barra",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Box Step Up",
+            "reps": "6/6",
+            "escala": null
+          },
+          {
+            "nombre": "Curl biceps",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [
+          "push jerk"
+        ],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "OLY"
+      }
+    },
+    {
+      "dia": "Miercoles",
+      "fecha": "2024-02-07",
+      "tipo_bloque_principal": "FUERZA",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Back Extension",
+            "reps": "15",
+            "escala": null
+          },
+          {
+            "nombre": "T2B estrictos",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Hollow hold",
+            "reps": "40\"",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "FUERZA",
+        "descripcion": "Deadlift 4x4 (AHAP)",
+        "movimiento": "Deadlift",
+        "sets": 4,
+        "reps": "4",
+        "variante_principiante": "Deadlift 1 leg kb"
+      },
+      "wod": {
+        "formato": "AMRAP",
+        "duracion": 15,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "SU",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "Wall Ball",
+            "reps": "3-6-9-12-15",
+            "escala": null
+          },
+          {
+            "nombre": "Power cleans",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": null,
+        "ejercicios": [
+          {
+            "nombre": "Landmine press",
+            "reps": "10/10",
+            "escala": null
+          },
+          {
+            "nombre": "Press frances",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "Bulgaras",
+            "reps": "10/10",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "sentadilla"
+      }
+    },
+    {
+      "dia": "Jueves",
+      "fecha": "2024-02-08",
+      "tipo_bloque_principal": "FUERZA",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Ruedita",
+            "reps": "12",
+            "escala": null
+          },
+          {
+            "nombre": "Redondeles en lindmine",
+            "reps": "6/6",
+            "escala": null
+          },
+          {
+            "nombre": "Hanging knee raises",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "FUERZA",
+        "descripcion": "Strict Press 5x5",
+        "movimiento": "Strict Press",
+        "sets": 5,
+        "reps": "5",
+        "variante_principiante": "DB press"
+      },
+      "wod": {
+        "formato": "EMOM",
+        "duracion": 20,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "Wall Climb",
+            "reps": "4",
+            "escala": null
+          },
+          {
+            "nombre": "Swing CR",
+            "reps": "15",
+            "escala": null
+          },
+          {
+            "nombre": "Rope Climb",
+            "reps": "3/Legless 2",
+            "escala": null
+          },
+          {
+            "nombre": "Burpees",
+            "reps": "20 mts",
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": null,
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "empuje"
+      }
+    },
+    {
+      "dia": "Viernes",
+      "fecha": "2024-02-09",
+      "tipo_bloque_principal": "OLY",
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "L-SIT",
+            "reps": "15\"",
+            "escala": null
+          },
+          {
+            "nombre": "Plancha Estrella",
+            "reps": "6/6",
+            "escala": null
+          },
+          {
+            "nombre": "Windmill",
+            "reps": "6/6",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": {
+        "tipo": "OLY",
+        "descripcion": "Snatch on hells 3x3 (60%)",
+        "movimiento": "Snatch",
+        "sets": 3,
+        "reps": "3",
+        "variante_principiante": "DB snatch"
+      },
+      "wod": {
+        "formato": "AMRAP",
+        "duracion": 14,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "Hand release push ups",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Pull up",
+            "reps": "8",
+            "escala": null
+          },
+          {
+            "nombre": "Burpees to line",
+            "reps": "6",
+            "escala": null
+          },
+          {
+            "nombre": "200 m run",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": null,
+        "ejercicios": [
+          {
+            "nombre": "Chin ups estrictas",
+            "reps": "6/10",
+            "escala": null
+          },
+          {
+            "nombre": "Hip Thrust",
+            "reps": "10",
+            "escala": null
+          },
+          {
+            "nombre": "Curl martillo",
+            "reps": "12",
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [
+          "snatch"
+        ],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": "OLY"
+      }
+    },
+    {
+      "dia": "Sabado",
+      "fecha": "2024-02-10",
+      "tipo_bloque_principal": null,
+      "core": {
+        "rondas": 3,
+        "ejercicios": [
+          {
+            "nombre": "Med ball sit ups",
+            "reps": "20",
+            "escala": null
+          },
+          {
+            "nombre": "Carry partner",
+            "reps": "20 m",
+            "escala": null
+          },
+          {
+            "nombre": "Plank high five",
+            "reps": "30\"",
+            "escala": null
+          }
+        ]
+      },
+      "bloque_principal": null,
+      "wod": {
+        "formato": "For Time",
+        "duracion": null,
+        "rondas": null,
+        "time_cap": null,
+        "ejercicios": [
+          {
+            "nombre": "100 cal bike",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "80 wall balls",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "60 KB swings",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "40 box jump over",
+            "reps": null,
+            "escala": null
+          },
+          {
+            "nombre": "20 synchro burpees",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "accesorios": {
+        "rondas": null,
+        "ejercicios": [
+          {
+            "nombre": "200 MTS RUN",
+            "reps": null,
+            "escala": null
+          }
+        ]
+      },
+      "metadata": {
+        "grupos_musculares": [
+          "piernas",
+          "core",
+          "empuje"
+        ],
+        "movimientos_olimpicos": [],
+        "intensidad_estimada": "alta",
+        "patron_movimiento_fuerza": null
+      }
+    }
+  ]
+}
